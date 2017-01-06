@@ -17,3 +17,11 @@ The libraries that are used while developing the Android application is as follo
 - [jQuery](https://github.com/jquery/jquery)
 - [SweetAlert](https://github.com/t4t5/sweetalert)
 - [FastClick](https://github.com/ftlabs/fastclick)
+
+# Screenshots
+![ScreenShot1](https://lh3.googleusercontent.com/ST67GNWdB5xx5I-9UjSmva8ySJ6zFQOwS2UIQphlhDzaBhTZVIfbUmMbs3MbhHHmruk=h310-rw)
+![ScreenShot2](https://lh3.googleusercontent.com/HUkHmDuZ5qF1bxnkFcuRima9OitnrRMh1_tkHqeZ9Y6LII_-yMpzUJtVZgpQq14twgWI=h310-rw)
+![ScreenShot3](https://lh3.googleusercontent.com/34QFEaDu-6AVRYb9r-WjY31L0fcclpnTEXSciYbsG0daarAWOw0TtxzrGGJUFKDeYA=h300-rw)
+
+# License
+This project is licensed under **MIT License**.
