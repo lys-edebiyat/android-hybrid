@@ -12,7 +12,8 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "cordova-plugin-splashscreen": "4.0.0"
+    "cordova-plugin-splashscreen": "4.0.0",
+    "cordova-plugin-crosswalk-webview": "2.2.0"
 };
 // BOTTOM OF METADATA
 });
